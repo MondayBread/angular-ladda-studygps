@@ -21,7 +21,5 @@
     "bower_components"
   ],
   "dependencies": {
-    "angular": "~1.2.16",
-    "ladda-studygps": "~0.9.4"
   }
 }
