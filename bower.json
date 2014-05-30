@@ -1,9 +1,9 @@
 {
-  "name": "angular-ladda",
+  "name": "angular-ladda-studygps",
   "version": "0.1.5",
   "homepage": "https://github.com/remotty/angular-ladda",
   "authors": [
-    "Chungsub Kim <subicura@subicura.com>"
+    "Chungsub Kim <subicura@subicura.com>, modify by peter yun <nulpulum@gmail.com>"
   ],
   "description": "An angular directive wrapper for Ladda.",
   "main": "dist/angular-ladda.min.js",
@@ -22,6 +22,6 @@
   ],
   "dependencies": {
     "angular": "~1.2.16",
-    "ladda": "~0.9.3"
+    "ladda-studygps": "~0.9.4"
   }
 }
